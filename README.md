@@ -29,7 +29,7 @@ ZenExport can be run in two modes:
 
 ### Optional Parameters
 
-- `--out-dir`: Output directory for exported files (default: ./exports)
+- `--outdir`: Output directory for exported files (default: ./exports)
 - `--format`: Export format (csv or json, default: json)
 - `--start-time`: Start time for logs in ISO format (default: 7 days ago)
 - `--end-time`: End time for logs in ISO format (default: current time)
